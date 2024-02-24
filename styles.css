@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #9c7f7f;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  h1 {
+    color: #754949;
+  }
+  
+  .game {
+    margin-top: 40px;
+  }
+  
+  .options {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .result {
+    margin-top: 20px;
+    font-size: 4=px;
+  }
+  
